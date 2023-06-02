@@ -1,1 +1,2 @@
-# laravel_csv
+Artisan command for database
+php artisan migrate
